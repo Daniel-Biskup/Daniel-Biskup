@@ -8,7 +8,7 @@ I’m currently working with
 
 I’m interested in working with cloud platforms and developing web applications.
 
-👀 Find me on [LinkedIn](www.linkedin.com/in/daniel-biskup-profile)
+👀 Find me on [LinkedIn](https://www.linkedin.com/in/daniel-biskup-profile)
 
 <!---
 Daniel-Biskup/Daniel-Biskup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
